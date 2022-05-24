@@ -5,7 +5,6 @@ Created on Sat May 23 14:44:35 2020
 
 @author: brettcornick
 
-Submitted for evaluation by Karagozian & Case as part of interview Challenge #2.
 """
 
 import numpy as np
