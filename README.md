@@ -6,9 +6,8 @@ ________________________________________________________________________________
 BUILD AND RUN INSTRUCTIONS:
 
 Mac/Linux/Windows:
-The application can be run from the terminal/command line from the "Nearest_Neighbors" 
-directory using Python 3 (Python 3 is required since program utilizes f-strings). Simply 
-run the following command:
+The application can be run from the terminal/command line from main directory using Python 3 
+(Python 3 is required since program utilizes f-strings). Simply run the following command:
 
 $ python3 Nearest_Neighbors.py
 
